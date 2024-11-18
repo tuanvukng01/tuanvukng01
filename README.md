@@ -3,7 +3,7 @@
 <h1 align="center">Hello, and welcome to my GitHub! 👋</h1>
 
 <p align="center">
-I'm a tech enthusiast who enjoys exploring the world of machine learning, deep learning, IoT, and real-time systems. <br>
+🌟 I'm a tech enthusiast who enjoys exploring the world of machine learning, deep learning, IoT, and real-time systems. <br>
 ⚙️ My passion lies in solving real-world problems through AI-driven solutions, physics-based simulations, and innovative data analysis. <br>
 Feel free to explore my projects below and connect with me!
 </p>

@@ -49,10 +49,8 @@ Feel free to explore my projects below and connect with me!
 </a>
 
 <a href="https://github.com/tuanvukng01/MediaAI_Personalization_Optimization">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=tuanvukng01&repo=
-MediaAI_Personalization_Optimization&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=tuanvukng01&repo=MediaAI_Personalization_Optimization&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-
 
 <a href="https://github.com/tuanvukng01/cuda_video_super_resolution">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=tuanvukng01&repo=cuda_video_super_resolution&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />

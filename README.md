@@ -48,12 +48,12 @@ Feel free to explore my projects below and connect with me!
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=tuanvukng01&repo=nlp_query_system&cache_seconds=86400&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<a href="https://github.com/tuanvukng01/MediaAI_Personalization_Optimization">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=tuanvukng01&repo=MediaAI_Personalization_Optimization&cache_seconds=86400&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/tuanvukng01/powerbi-plant-portfolio-analysis">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=tuanvukng01&repo=powerbi-plant-portfolio-analysis&cache_seconds=86400&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<a href="https://github.com/tuanvukng01/cuda_video_super_resolution">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=tuanvukng01&repo=cuda_video_super_resolution&cache_seconds=86400&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/tuanvukng01/german_credit_project">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=tuanvukng01&repo=german_credit_project&cache_seconds=86400&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 [//]: # (---)

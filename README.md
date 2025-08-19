@@ -40,8 +40,8 @@ Feel free to explore my projects below and connect with me!
 
 [//]: # (</a>)
 
-<a href="https://github.com/tuanvukng01/smart_grocery_list">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=tuanvukng01&repo=smart_grocery_list&cache_seconds=86400&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/tuanvukng01/style-lora-diffusion">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=tuanvukng01&repo=style-lora-diffusion&cache_seconds=86400&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <a href="https://github.com/tuanvukng01/nlp_query_system">
